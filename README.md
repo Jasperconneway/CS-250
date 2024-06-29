@@ -2,6 +2,7 @@
 Sprint Review and Retrospective  
 
 I will ask user's what they desire and ask questions to get a clear objective on what they need. Once we know what they need, we turn these into user stories to use in our Sprints.  
+
 User Stories ensure the Development Team knows what their code should do. If user stories are not clear enough, the team can ask the product owner for clarification. Which ensures the user the best experience
 possible.  
 
